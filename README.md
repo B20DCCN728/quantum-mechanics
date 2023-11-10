@@ -1,2 +1,3 @@
 "# quantum-mechanics" 
-# Cơ học lượng tử
+# Cơ học lượng tử - MIT 
+
